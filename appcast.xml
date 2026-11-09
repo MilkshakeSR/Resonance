@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Resonance</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 09 Nov 2026 19:22:39 +1100</pubDate>
+            <link>https://github.com/MilkshakeSR/Resonance</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Resonance 1.0.0</title>
+<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#c040ff}
+li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
+<body><h2>Resonance 1.0.0</h2><p>First release</p><h3>Added</h3><ul><li>Listens to whatever your Mac is playing: system audio (Core Audio process tap, all apps or only the apps you choose, such as Spotify), with screen-capture audio and any input device (microphone, BlackHole) as fallbacks.</li><li>Real-time music analysis: 64 frequency bands, bass, mids and treble, loudness, automatic gain so quiet and loud songs both look great, beat detection with tempo (60–180 BPM), bar position and beat anticipation, and build-up and drop detection for big moments.</li><li>18 original scenes: Neon Tunnel, Particle Galaxy (up to 2 million stars), Liquid Chrome, Aurora Waves, Kaleidoscope Bloom, 3D Spectrum City, Circular Spectrum (with album art), Ink Fluid, Synthwave Grid, Oscilloscope, Firework Beats, Lava Lamp, Warp Speed, Sound Terrain, Plasma Pulse, Ribbon Dance, Crystal Cave and Minimal Wave. Each has its own parameters.</li><li>Shuffle (a new scene for every track) and Auto-VJ (switches scenes on drops or every 16, 32 or 64 bars, with beat-synced crossfade, zoom blur, glitch, ripple and white-flash transitions, never repeating a scene, optionally favourites only).</li><li>Glow and polish on every scene: HDR bloom, chromatic aberration, film grain, vignette, trails and an optional kaleidoscope. Low, Medium, High and Ultra quality plus render scale.</li><li>16 built-in palettes, an Album Art palette made from the current song&#x27;s cover, a gradient editor for your own palettes, and palette behaviours (static, hue drift, cycle every N bars, accent flash on drops).</li><li>Display modes: window, fullscreen on any display (cursor hides, Mac stays awake), a live wallpaper behind your windows, a click-through overlay on top (opacity, normal or additive blending, full screen, bottom band or corner), a floating mini player, a live spectrum in the menu bar icon, and a Resonance screen saver.</li><li>Song title cards and play/pause/skip controls for Music and Spotify.</li><li>Screenshots (⌘S) and 10, 30 or 60-second MP4 clips with the audio (⌘R), at up to 1080p60.</li><li>Photosensitivity warning on first launch and Reduce Flashing on by default (fewer than 3 large brightness changes per second, softened strobes, capped glow). Reduce Motion is respected.</li><li>Single-key shortcuts (arrows, Space, C, F, O, M, H, R, 1–9, Esc, ?), presets, favourites, onboarding with a live level meter, Settings, and automatic updates.</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/MilkshakeSR/Resonance/releases/download/v1.0.0/Resonance.dmg" length="4257513" type="application/octet-stream" sparkle:edSignature="pbGaIsQJqsyhkHXCJ4fu8tRxVUdOn50ROQO7RK/FyxGrB61Su0wM35PxTN5ycT47f6RJ+NO9U1IyMV+nrj/CCg=="/>
+        </item>
+    </channel>
+</rss>
